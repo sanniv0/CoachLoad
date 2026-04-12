@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "start": "serve -s dist -l $PORT",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -14,6 +15,7 @@
     "lucide-react": "^1.8.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
+    "serve": "^14.2.6",
     "tailwind-merge": "^3.5.0"
   },
   "devDependencies": {
