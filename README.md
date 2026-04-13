@@ -2,6 +2,13 @@
 
 A React + Vite web application that displays real-time train coach occupancy data to help passengers identify less crowded coaches and make informed boarding decisions.
 
+## 🚀 Live Demo & Deployment
+
+The application is officially live! You can access it here:
+🔗 **[Coach-Load Live App](https://coachload-683212038528.us-central1.run.app/)**
+
+This project was brought to life using **Google Cloud**. I utilized the **Google Cloud Console** to manage the infrastructure and deploy the application, ensuring it is accessible to users everywhere.
+
 ## Features
 
 - **Live Density Indicators** - Visual color-coded display of coach load percentages
